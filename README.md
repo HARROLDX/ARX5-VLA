@@ -7,7 +7,13 @@ If you are working with the ARX5 manipulator, this repo covers the complete work
 - Data Collection
 - Model Training
 - Model Deployment
-Please see: 数据采集流程笔记.md,运行与流程笔记.md,机械臂驱动说明.md
+- Please see: 数据采集流程笔记.md,运行与流程笔记.md,机械臂驱动说明.md
+
+
+## Demo
+https://github.com/user-attachments/assets/79e53d04-5a3c-4490-a3d1-79750222f859
+
+
 
 # χ₀
 
