@@ -1,3 +1,13 @@
+# ARX5-VLA
+This repository is built upon [OpenDriveLab/kai0](https://github.com/OpenDriveLab/kai0).
+Please visit the official repository for upstream updates: https://github.com/OpenDriveLab/kai0
+
+This is a personal customized repository focused on **Imitation Learning & VLA (Vision-Language-Action)** for the ARX5 robotic arm.
+If you are working with the ARX5 manipulator, this repo covers the complete workflow:
+- Data Collection
+- Model Training
+- Model Deployment
+
 # χ₀
 
 <div id="top" align="center">
