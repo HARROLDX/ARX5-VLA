@@ -8,12 +8,12 @@ Built on [OpenDriveLab/kai0](https://github.com/OpenDriveLab/kai0) and [openpi](
 
 <table>
   <tr>
-    <th align="center">ARX5 manipulation</th>
-    <th align="center">Robotics policy post-training</th>
+    <th align="center">ARX5-VLA</th>
+    <th align="center">ARX5-VLA</th>
   </tr>
   <tr>
-    <td align="center"><a href="docs/arx_demo.mp4"><img src="docs/assets/arx-demo.gif" width="400" height="226" alt="ARX5 manipulation demo — click for the full video"></a></td>
-    <td align="center"><img src="docs/assets/post-training.gif" width="400" height="226" alt="Robotics policy post-training demonstration"></td>
+    <td align="center"><a href="docs/arx_demo.mp4"><img src="docs/assets/arx-demo.gif" width="400" height="226" alt="ARX5-VLA"></a></td>
+    <td align="center"><img src="docs/assets/post-training.gif" width="400" height="226" alt="ARX5-VLA"></td>
   </tr>
 </table>
 
